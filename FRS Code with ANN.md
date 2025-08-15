@@ -1,5 +1,5 @@
 Here is the combined and cleaned-up version of your code without comments and in continuous form:
-
+ 
 ```python
 import os
 import cv2
